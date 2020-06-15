@@ -1,0 +1,7 @@
+C:\Users\German\source\repos\lab1queue\lab1queue\bin\Debug\lab1queue.exe.config
+C:\Users\German\source\repos\lab1queue\lab1queue\bin\Debug\lab1queue.exe
+C:\Users\German\source\repos\lab1queue\lab1queue\bin\Debug\lab1queue.pdb
+C:\Users\German\source\repos\lab1queue\lab1queue\obj\Debug\lab1queue.csprojAssemblyReference.cache
+C:\Users\German\source\repos\lab1queue\lab1queue\obj\Debug\lab1queue.csproj.CoreCompileInputs.cache
+C:\Users\German\source\repos\lab1queue\lab1queue\obj\Debug\lab1queue.exe
+C:\Users\German\source\repos\lab1queue\lab1queue\obj\Debug\lab1queue.pdb
